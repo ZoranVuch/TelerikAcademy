@@ -1,0 +1,7 @@
+C# and .NET Differences
+
+1. C# is a programming language, a concept for creating code. .Net is a software framework of ready tools and class library.
+
+2. C# is a "tool" for programming, while .NET is a resource for developing and execution of sophisticated applications.
+
+3. C# is the top level input (programming code) for the multilevel .NET program execution environment. 

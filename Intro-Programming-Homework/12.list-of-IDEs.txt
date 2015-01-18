@@ -1,0 +1,24 @@
+1.Eclipse
+Multiple-language IDE. It contains a base workspace and an extensible plug-in system for customizing the environment.
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+2.NetBeans
+Multiple-language IDE. 
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+
+3.IntelliJ IDEA
+Multiple-language IDE.
+IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software.
+In a report by Infoworld in 2010, IntelliJ received the highest test center score out of the 4 Top Java Programming Tools : Eclipse, IntelliJ IDEA, NetBeans, and Oracle JDeveloper.
+
+4.Xcode
+Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS.
+
+
+5.Android Studio
+Android Studio is an integrated development environment (IDE) for developing on the Android platform.
+Based on JetBrains' IntelliJ IDEA software, the Studio is designed specifically for Android development.
+
+
+
+Microsoft Visual Studio is a multi-language IDE. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services.
